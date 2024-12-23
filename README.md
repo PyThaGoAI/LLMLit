@@ -8,9 +8,40 @@
 
 ---
 
-## **Note of deprecation**
+LLMLIT – Coming Soon
+The premium version of LLama 3, LLMLIT, sets a new standard in AI with advanced customization and innovative technologies, making it the ideal solution for a wide range of industries and applications. This version integrates Retrieval-Augmented Generation (RAG) capabilities, ensuring fast and accurate access to relevant and specialized information.
 
-Thank you for developing with Llama models. As part of the Llama 3.1 release, we’ve consolidated GitHub repos and added some additional repos as we’ve expanded Llama’s functionality into being an e2e Llama Stack. Please use the following repos going forward:
+Key Features:
+Advanced Customization: Tailored to meet specific needs, delivering optimized solutions for every user.
+Enhanced RAG Integration: Support for multiple domains and complex data sources.
+Innovative Frontend and Backend:
+Frontend: Intuitive, customizable interfaces with seamless, user-centric interactions.
+Backend: Top-tier performance, rapid data processing, and efficient task management.
+Comprehensive Community Integrations
+LLMLIT supports a wide array of platforms and applications, offering unmatched flexibility:
+
+Web & Desktop: Open WebUI, HTML UI, Ollama GUI, MindMac, Ollama Spring.
+Mobile: Native apps such as Enchanted, macAI, Ollama Telegram Bot, and Ollama RAG Chatbot.
+CLI & Terminal: Advanced plugins for Emacs, Vim, and tools like ShellOracle and typechat-cli.
+Extensions & Plugins: Raycast Extensions, Obsidian Plugins, Ollama for Discord, and more.
+Package Managers: Integration with Pacman, Gentoo, Nix, and Flox.
+Enterprise Solutions & Advanced AI
+AI Frameworks and Chatbot UI: Hollama, Saddle, big-AGI, Cheshire Cat, and Amica.
+Backend RAG Integration: LangChain, LangChainGo, Haystack, and Semantic Kernel.
+Developer Support: VSCode extensions, QodeAssist for Qt Creator, and Ollama support for multiple programming languages (Java, Python, C++, etc.).
+Team and Multi-Agent Applications: AnythingLLM, crewAI, and BrainSoup.
+Cross-Platform Performance
+LLMLIT delivers advanced interoperability:
+
+MacOS Native: OllamaSwift, macAI, and support for Apple Vision Pro.
+Windows/Linux: Docker-native and containerized apps like ARGO and StreamDeploy.
+Mobile Applications: Ollama Telegram Bot, Ollama Discord Bot, and Ollama RAG Chatbot.
+Open Ecosystem: Integration with popular platforms such as Google Mesop, Firebase, and SAP ABAP.
+The Future of AI is Here 🚀
+LLMLIT revolutionizes how we work with large language models, offering a scalable, powerful, and adaptable platform ready to meet the most demanding needs with innovation, flexibility, and superior performance.
+
+👉 LLMLIT – Taking Your AI to the Next Level.
+
 - [llama-models](https://github.com/meta-llama/llama-models) - Central repo for the foundation models including basic utilities, model cards, license and use policies
 - [PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Key component of Llama Stack focusing on safety risks and inference time mitigations 
 - [llama-toolchain](https://github.com/meta-llama/llama-toolchain) - Model development (inference/fine-tuning/safety shields/synthetic data generation) interfaces and canonical implementations
@@ -21,8 +52,6 @@ If you have any questions, please feel free to file an issue on any of the above
 
 Thank you!
 
-
-# (Deprecated) Meta Llama 3
 
 We are unlocking the power of large language models. Our latest version of Llama is now accessible to individuals, creators, researchers, and businesses of all sizes so that they can experiment, innovate, and scale their ideas responsibly.
 
