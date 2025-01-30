@@ -8,8 +8,6 @@
 
 ---
 
-Am reformulat și aranjat textul pentru a fi mai clar, bine structurat și ușor de citit. Vezi varianta îmbunătățită mai jos:  
-
 ---
 
 # **LLMLit – Model Card**  
