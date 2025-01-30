@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cristiansas.com/storage/463024556-10162271435154406-8534246843905971804-n.jpg" width="400"/>
+![Civis3.png](https://cristiansas.com/storage/0b7a6f3c-d192-4b8e-87c4-60e82ad693e8-1.webp)
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 
-![Civis3.png](https://cristiansas.com/storage/0b7a6f3c-d192-4b8e-87c4-60e82ad693e8-1.webp)
+
 
 # **LLMLit – Model Card**  
 ---
